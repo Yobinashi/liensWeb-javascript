@@ -9,13 +9,9 @@ Créez des pages web interactives avec JavaScript - Activité 3 (finale) | Openc
   
   
     {
-
         “titre”: “titre du lien”,
-
         “url”: “URL du lien”,
-
         “auteur”: “auteur du lien”
-
     }
     
     
