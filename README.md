@@ -1,4 +1,4 @@
-# lliensWeb-javascript
+# liensWeb-javascript
 Créez des pages web interactives avec JavaScript - Activité 3 (finale) | Openclassrooms
 
 ### Dans cette activité finale, vous allez utiliser un serveur web externe pour rendre votre application de liens web véritablement opérationnelle.
@@ -6,6 +6,7 @@ Créez des pages web interactives avec JavaScript - Activité 3 (finale) | Openc
     - L’API de récupération des liens est https://oc-jswebsrv.herokuapp.com/api/liens. Elle renvoie les derniers liens ajoutés sous   forme de tableau JSON.
     - L’API d’ajout d’un lien est https://oc-jswebsrv.herokuapp.com/api/lien. Elle attend un objet JSON représentant un lien.
   I Voici le format JSON d’un lien:
+  
   
     {
 
