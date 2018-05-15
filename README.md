@@ -5,15 +5,13 @@ Créez des pages web interactives avec JavaScript - Activité 3 (finale) | Openc
   * Utilisation de l'API -  https://oc-jswebsrv.herokuapp.com pour récupérer les derniers liens publiés et ajouter un nouveau lien.   
     - L’API de récupération des liens est https://oc-jswebsrv.herokuapp.com/api/liens. Elle renvoie les derniers liens ajoutés sous   forme de tableau JSON.
     - L’API d’ajout d’un lien est https://oc-jswebsrv.herokuapp.com/api/lien. Elle attend un objet JSON représentant un lien.
-  I Voici le format JSON d’un lien:
-  
-  
-    {
+  * Voici le format JSON d’un lien:
+
+     {
         “titre”: “titre du lien”,
         “url”: “URL du lien”,
         “auteur”: “auteur du lien”
-    }
-    
+      } 
     
 ![activité 3 logo](config/img/activite_3_demo.gif "activité 3 exemple")
 
