@@ -9,7 +9,12 @@ h2 {
     color: rgb(247, 156, 52);
 }
 
+h3 {
+    color: #858383;
+}
+
 h5 {
+    color: silver;
     font-style: italic;
 }
 
