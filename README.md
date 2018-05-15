@@ -14,6 +14,8 @@ Créez des pages web interactives avec JavaScript - Activité 3 (finale) | Openc
         “auteur”: “auteur du lien”
         
       } 
+      
+  * Exemple possible de rendu:
     
 ![activité 3 logo](https://static.oc-static.com/prod/courses/files/creez-des-pages-web-interactives-avec-javascript/activite_3_demo.gif "activité 3 exemple")
 
